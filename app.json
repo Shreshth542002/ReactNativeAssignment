@@ -4,7 +4,15 @@
     "web": {
       "bundler": "metro"
     },
-    "name": "AssignmentProject",
-    "slug": "AssignmentProject"
+    "name": "ShreshthTripathi",
+    "slug": "ShreshthTripathi",
+    "extra": {
+      "eas": {
+        "projectId": "3e7319a0-eea7-456a-9b54-93594aebae9d"
+      }
+    },
+    "android": {
+      "package": "com.shreshth0504.ShreshthTripathi"
+    }
   }
 }
